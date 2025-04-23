@@ -4,33 +4,37 @@
 </header>
 
 <main>
-  <h2>Overview</h2>
-  <p>
-    The goal of this web application is to expedite the 
-    project proposal process for students studying information science and technology. 
-    Since Temple does not currently have a platform specifically for project 
-    submissions, an effective process that enables people and organizations to submit project ideas for the Temple IS&T Capstone Course, 
-    have them reviewed, and have them approved. By streamlining the 
-    submission, review, and approval procedures, the online application will  improve 
-    capstone project visibility and communication.  
-  </p>
-  <p>
-    This Repository is a visible copy of the actual repo used during development
-    that I wish to have shown on my github, as the actual repo is private and managed
-    by the Temple University IS&T faculty.
-  </p>
-  <p>
-    his project is functional, published and hosted on the Temple University servers.
-    But since I have graduated from Temple I no longer have the authentication and access
-    to the project. I only wish to have this repo serving as proof that was a collaborator
-    on this project.
-    <br>
-    Further documentation about this project can be found here: https://docs.google.com/document/d/1T5RkYzr3XtUQmaPMZ0mVm3Kk7uVlGpLvS8qpSY2DpX4/edit?tab=t.0 
-    <br>
-    And the project is hosted here: https://np-stem.temple.edu/cis4396-f04/ (though you need to be connected to Temple's servers to be able to access it)
-  </p>
-    
-  
+  <div class="section">
+    <h2>📖 Overview</h2>
+    <p>
+      The goal of this web application is to expedite the project proposal process for students studying Information Science and Technology at Temple University.
+    </p>
+    <p>
+      Since Temple does not currently have a platform specifically for project submissions, we built an effective process that enables people and organizations to:
+    </p>
+    <ul>
+      <li>Submit project ideas for the Temple IS&T Capstone Course</li>
+      <li>Have them reviewed and approved by faculty</li>
+    </ul>
+    <p>
+      By streamlining the submission, review, and approval procedures, the online app improves capstone project visibility and communication.
+    </p>
+    <p>
+      This repository is a visible copy of the actual repo used during development.<br>
+      The original repository is <strong>private and managed by Temple University IS&T faculty</strong>.
+    </p>
+    <p>
+      The project is fully functional, published, and hosted on Temple University's servers.  
+      However, since I’ve graduated, I no longer have authentication or access to the live system.  
+      This GitHub repo exists as <strong>proof that I was a collaborator</strong> on the project.
+    </p>
+    <p>
+      📄 <strong>Further Documentation:</strong><br>
+      <a href="https://docs.google.com/document/d/1T5RkYzr3XtUQmaPMZ0mVm3Kk7uVlGpLvS8qpSY2DpX4/edit?tab=t.0" target="_blank">Capstone Project Docs (Google Docs)</a><br>
+      🌐 <strong>Live Project (Temple Network Only):</strong><br>
+      <a href="https://np-stem.temple.edu/cis4396-f04/" target="_blank">https://np-stem.temple.edu/cis4396-f04/</a>
+    </p>
+  </div>
   
   <h2>✅ Features</h2>
   <ul>
