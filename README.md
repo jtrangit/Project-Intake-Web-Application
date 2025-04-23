@@ -4,7 +4,7 @@
   </header>
 
   <main>
-    <section>
+   <section>
       <h2>✅ Features</h2>
       <ul>
         <li><strong>User Authentication & Role Management:</strong> Secure login system with student, advisor, and admin roles.</li>
@@ -25,4 +25,6 @@
         <li><strong>DevOps:</strong> Git, Azure DevOps or GitHub Actions (CI/CD)</li>
       </ul>
     </section>
+  </main>
+    
 
