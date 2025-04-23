@@ -68,36 +68,22 @@
     </li>
   </ul>
 
-  <h2>🚀 Getting Started</h2>
-  <ol>
-    <li>Clone the repo:
-      <pre><code>git clone https://github.com/yourusername/capstone-proposal-manager.git
-cd capstone-proposal-manager</code></pre>
-    </li>
-    <li>Configure your <code>appsettings.json</code> for SQL Server</li>
-    <li>Run the app:
-      <pre><code>dotnet build
-dotnet run</code></pre>
-    </li>
-    <li>Visit <code>https://localhost:5001</code></li>
-  </ol>
-
   <h2>✍️ Authors</h2>
   <ul>
-    <li><strong>Your Name</strong> – Full-stack (auth + dashboard)</li>
-    <li>Teammate 1 – Backend lead</li>
-    <li>Teammate 2 – UI/UX design</li>
-    <li>Teammate 3 – Testing & deployment</li>
+    <li><strong>Johnny Tran</strong></li>
+    <li>Neel Patel</li>
+    <li>Nathan Marzina</li>
+    <li>Abhijay Shekhawat</li>
+    <li>Carlos Chavez</li>
+    <li>Johnson Chieu</li>
   </ul>
-  <p>Connect: <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> · 
-     <a href="https://yourwebsite.com" target="_blank">Portfolio</a></p>
-
-  <h2>📄 License</h2>
-  <p>This project is for educational use. Fork or extend with credit.</p>
+  <p>
+    Connect: <a href="https://www.linkedin.com/in/johnny-tran-66247b250/" target="_blank">LinkedIn</a> · 
+  </p>
 </main>
 
 <footer>
-  &copy; 2024 Your Name — Built with 💡 and 💻
+  &copy; 2024 Johnny Tran
 </footer>
 
 
