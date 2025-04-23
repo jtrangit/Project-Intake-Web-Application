@@ -78,7 +78,8 @@
     <li>Johnson Chieu</li>
   </ul>
   <p>
-    Connect: <a href="https://www.linkedin.com/in/johnny-tran-66247b250/" target="_blank">LinkedIn</a> · 
+    Contact: 
+    <a href="https://www.linkedin.com/in/johnny-tran-66247b250/" target="_blank">LinkedIn</a> | 267-423-6148 | johnnytran.work@gmail.com 
   </p>
 </main>
 
