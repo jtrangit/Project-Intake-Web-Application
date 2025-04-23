@@ -25,6 +25,7 @@
     to the project. I only wish to have this repo serving as proof that was a collaborator
     on this project.
     Further documentation about this project can be found here: https://docs.google.com/document/d/1T5RkYzr3XtUQmaPMZ0mVm3Kk7uVlGpLvS8qpSY2DpX4/edit?tab=t.0
+    
     And the project is hosted here: https://np-stem.temple.edu/cis4396-f04/ (though you need to be connected to Temple's servers to be able to access it)
   </p>
     
